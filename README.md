@@ -1,6 +1,8 @@
+<img src = "https://media.licdn.com/dms/image/D4E16AQE6dqZA1_nrYA/profile-displaybackgroundimage-shrink_350_1400/0/1685559375497?e=1691625600&v=beta&t=QNK_XyxaYHOoUFbMQB7XTgi2JzCNkEdYiId7exEGSlc">
 <h1 align="center">Hi 👋, I'm Arthur Sargsyan</h1>
 <h3 align="center">A passionate data science from Armenia</h3>
 
+<img align = "right" width = "400" src = "https://i.pinimg.com/originals/d2/2e/88/d22e88569c355bec8884730f0182d04a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthursargsyana&label=Profile%20views&color=0e75b6&style=flat" alt="arthursargsyana" /> </p>
 
 - 📫 How to reach me **arthurasargsyan@gmail.com**
